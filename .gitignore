@@ -1,0 +1,10 @@
+# sensetive information 
+terraform.tfvars
+# state files
+*.tfstate
+*.tfstate.*
+local files
+.terraform/
+.terraform.lock.hcl
+# public key
+*.pem
